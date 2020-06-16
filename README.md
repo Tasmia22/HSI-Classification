@@ -6,7 +6,20 @@ classification because of its ability to contain rich information. But the proce
 image is a challenging task because of its high dimensionality and data redundancy.That is why dimension reduction is necessary otherwise high dimensional data suffers from Hughes Phenomenon. Dimension can be reduced by using feature selection and feature extraction approaches.In here, supervised Linear Discriminant Analysis(LDA) & unsupervised Principal Component Analysis (PCA) have been used as preprocessing step to classify Hyperspectral Image.
 
 
-##Dataset
+## Dataset
+Dataset:(Indian Pines)
+Image size: 145×145×200.
+200 spectral bands.
+Wavelength range: 0.4−2.5𝜇𝑚.
+16 classes.
+
+Dataset:University of Pavia
+Image size: 610×340×103.
+103 spectral bands.
+9 classes.
+
+
+
 
 
 
