@@ -7,24 +7,28 @@ image is a challenging task because of its high dimensionality and data redundan
 
 
 ## Dataset
-Dataset:(Indian Pines)
+(Indian Pines)<br/>
 Image size: 145×145×200.
 200 spectral bands.
 Wavelength range: 0.4−2.5𝜇𝑚.
-16 classes.
+16 classes.<br/>
 
-Dataset:University of Pavia
+University of Pavia<br/>
 Image size: 610×340×103.
 103 spectral bands.
-9 classes.
+9 classes.<br/>
 
 ## WorkFlow
 The steps of the proposed methods are:
 
-    Perform PCA to reduce dimension from the input dataset.
-    Perform 3D CNN to classify.
-    Perform LDA to reduce dimension from the input dataset.
-    Perform 3D CNN to classify.
+    1.Perform PCA to reduce dimension from the input dataset.
+    2.Perform 3D CNN to classify.
+    3.Perform LDA to reduce dimension from the input dataset.
+    4.Perform 3D CNN to classify.
+    
+## Kaggle Code Link
+[PCA+3DCNN](https://www.kaggle.com/tasmiajannat/3d-cnn)  <br/>
+[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn)
     
 ## Classification Accuracy
  [classification_report](classification_report.txt)
