@@ -18,6 +18,18 @@ Image size: 610×340×103.
 103 spectral bands.
 9 classes.
 
+## WorkFlow
+The steps of the proposed methods are:
+
+    Perform PCA to reduce dimension from the input dataset.
+    Perform 3D CNN to classify.
+    Perform LDA to reduce dimension from the input dataset.
+    Perform 3D CNN to classify.
+    
+## Classification Accuracy
+ <a src="classification_report.txt"></a>
+    
+
 
 
 
