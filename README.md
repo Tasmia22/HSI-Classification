@@ -27,7 +27,7 @@ The steps of the proposed methods are:
     Perform 3D CNN to classify.
     
 ## Classification Accuracy
- [a relative link](classification_report.txt)
+ [classification_report](classification_report.txt)
     
 
 
