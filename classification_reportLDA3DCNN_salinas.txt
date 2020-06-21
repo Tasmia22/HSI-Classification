@@ -1,0 +1,62 @@
+1.1012404844836387e-09 Test loss (%)
+100.0 Test accuracy (%)
+
+100.0 Kappa accuracy (%)
+100.0 Overall accuracy (%)
+100.0 Average accuracy (%)
+
+                           precision    recall  f1-score   support
+
+    Brocoli_green_weeds_1       1.00      1.00      1.00       403
+    Brocoli_green_weeds_2       1.00      1.00      1.00       732
+                   Fallow       1.00      1.00      1.00       419
+        Fallow_rough_plow       1.00      1.00      1.00       276
+            Fallow_smooth       1.00      1.00      1.00       529
+                  Stubble       1.00      1.00      1.00       800
+                   Celery       1.00      1.00      1.00       725
+         Grapes_untrained       1.00      1.00      1.00      2251
+     Soil_vinyard_develop       1.00      1.00      1.00      1190
+Corn_senesced_green_weeds       1.00      1.00      1.00       672
+      Lettuce_romaine_4wk       1.00      1.00      1.00       220
+      Lettuce_romaine_5wk       1.00      1.00      1.00       350
+      Lettuce_romaine_6wk       1.00      1.00      1.00       178
+      Lettuce_romaine_7wk       1.00      1.00      1.00       215
+        Vinyard_untrained       1.00      1.00      1.00      1496
+ Vinyard_vertical_trellis       1.00      1.00      1.00       369
+
+                 accuracy                           1.00     10825
+                macro avg       1.00      1.00      1.00     10825
+             weighted avg       1.00      1.00      1.00     10825
+
+[[ 403    0    0    0    0    0    0    0    0    0    0    0    0    0
+     0    0]
+ [   0  732    0    0    0    0    0    0    0    0    0    0    0    0
+     0    0]
+ [   0    0  419    0    0    0    0    0    0    0    0    0    0    0
+     0    0]
+ [   0    0    0  276    0    0    0    0    0    0    0    0    0    0
+     0    0]
+ [   0    0    0    0  529    0    0    0    0    0    0    0    0    0
+     0    0]
+ [   0    0    0    0    0  800    0    0    0    0    0    0    0    0
+     0    0]
+ [   0    0    0    0    0    0  725    0    0    0    0    0    0    0
+     0    0]
+ [   0    0    0    0    0    0    0 2251    0    0    0    0    0    0
+     0    0]
+ [   0    0    0    0    0    0    0    0 1190    0    0    0    0    0
+     0    0]
+ [   0    0    0    0    0    0    0    0    0  672    0    0    0    0
+     0    0]
+ [   0    0    0    0    0    0    0    0    0    0  220    0    0    0
+     0    0]
+ [   0    0    0    0    0    0    0    0    0    0    0  350    0    0
+     0    0]
+ [   0    0    0    0    0    0    0    0    0    0    0    0  178    0
+     0    0]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    0  215
+     0    0]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    0    0
+  1496    0]
+ [   0    0    0    0    0    0    0    0    0    0    0    0    0    0
+     0  369]]
