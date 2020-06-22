@@ -33,16 +33,16 @@ For Indian Pine dataset:<br/>
 
 For Pavia University dataset:<br/>
 [PCA+3DCNN](https://www.kaggle.com/tasmiajannat/pca-3d-cnn-pu)  <br/>
-[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn-pu)
+[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn-pu)<br/>
     
 ## Classification Accuracy
 For Indian Pine dataset:<br/>
- [classification_report of PCA+3dCNN of Indian Pine](classification_report.txt)
- [classification_report of LDA+3dCNN of Indian Pine](classification_report_Lda_IndianPine.txt)
+ [classification_report of PCA+3dCNN of Indian Pine](classification_report.txt)<br/>
+ [classification_report of LDA+3dCNN of Indian Pine](classification_report_Lda_IndianPine.txt)<br/>
  
  For Pavia University dataset:<br/>
- [classification_report of PCA+3dCNN of Pavia University](classification_reportPCA_3dcnn_PU.txt)
- [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA_pu.txt)
+ [classification_report of PCA+3dCNN of Pavia University](classification_reportPCA_3dcnn_PU.txt)<br/>
+ [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA_pu.txt)<br/>
  
  
     
