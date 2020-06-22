@@ -27,13 +27,23 @@ The steps of the proposed methods are:
     4.Perform 3D CNN to classify.
     
 ## Kaggle Code Link
-For Indian Pine dataset:
+For Indian Pine dataset:<br/>
 [PCA+3DCNN](https://www.kaggle.com/tasmiajannat/3d-cnn)  <br/>
-[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn/notebook)
+[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn/notebook)<br/>
+
+For Pavia University dataset:<br/>
+[PCA+3DCNN](https://www.kaggle.com/tasmiajannat/pca-3d-cnn-pu)  <br/>
+[LDA+3DCNN](https://www.kaggle.com/tasmiajannat/lda-3dcnn-pu)
     
 ## Classification Accuracy
+For Indian Pine dataset:<br/>
  [classification_report of PCA+3dCNN of Indian Pine](classification_report.txt)
- [classification_report of LDA+3dCNN of Indian Pine](classification_report_Lda_IndianPine)
+ [classification_report of LDA+3dCNN of Indian Pine](classification_report_Lda_IndianPine.txt)
+ 
+ For Pavia University dataset:<br/>
+ [classification_report of PCA+3dCNN of Pavia University](classification_reportPCA_3dcnn_PU.txt)
+ [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA_pu.txt)
+ 
  
     
 
