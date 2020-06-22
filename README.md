@@ -44,11 +44,5 @@ For Indian Pine dataset:<br/>
  [classification_report of PCA+3dCNN of Pavia University](classification_reportPCA_3dcnn_PU.txt)<br/>
  [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA.txt)<br/>
  
+ #### [Supplementary Material](HybridSN Exploring 3-D–2-D CNN FeatureHierarchy for HSI Classification.pdf)
  
-    
-
-
-
-
-
-
