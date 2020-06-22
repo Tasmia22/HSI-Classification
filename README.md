@@ -42,7 +42,7 @@ For Indian Pine dataset:<br/>
  
  For Pavia University dataset:<br/>
  [classification_report of PCA+3dCNN of Pavia University](classification_reportPCA_3dcnn_PU.txt)<br/>
- [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA_pu.txt)<br/>
+ [classification_report of LDA+3dCNN of Pavia University](classification_report_LDA.txt)<br/>
  
  
     
